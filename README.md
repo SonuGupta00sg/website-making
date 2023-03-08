@@ -1,2 +1,2 @@
 # website-making
-Trying to learn make website
+Trying to learn to make website
